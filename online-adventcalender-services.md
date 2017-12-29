@@ -9,6 +9,5 @@ Some Tools:
 * www.elfyourself.com/ <;-)*
 
 Twitter-Accounts
-@my_advent
-
-@ElfYourself
+* @my_advent
+* @ElfYourself
