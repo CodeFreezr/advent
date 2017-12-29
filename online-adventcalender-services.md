@@ -1,14 +1,14 @@
-advientos.com (e|de|fr|sp|it)
+AdventCalender SaaS:
 
-tuerchen.com (e|de)
+* www.advientos.com (e|de|fr|sp|it)
+* www.tuerchen.com (e|de)
+* www.adventmyfriend.com/ (e|fr|de) 
+* www.myadvent.net/en (e|de)
 
-adventmyfriend.com/ (e|fr|de)
+Some Tools:
+* www.elfyourself.com/ <;-)*
 
-www.myadvent.net/en (e|de)
-
-elfyourself.com/ <;-)*
-
-
+Twitter-Accounts
 @my_advent
 
 @ElfYourself
